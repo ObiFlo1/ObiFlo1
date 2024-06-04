@@ -1,5 +1,6 @@
 ### Hi there 👋, Ruben Flores
 #### Design and Development 
+##
 Hello, my name is Ruben Flores
 I am pursuing a job as a software engineer in the tech industry. 
 During my time in the military I exceeded my skills in Teamwork, Adaptability, and Effective Communication. 
@@ -9,6 +10,8 @@ Reach out to me so we can grow together.
 
 ## Skills and Experience
 Skills: REACT / JS / HTML / CSS / PostgreSQL / Express
+
+##
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ObiFlo1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubenflores114/)  
 

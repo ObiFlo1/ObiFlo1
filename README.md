@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, Ruben Flores
+#### Design and Development 
+Hello, my name is Ruben Flores
+I am pursuing a job as a software engineer in the tech industry. 
+During my time in the military I exceeded my skills in Teamwork, Adaptability, and Effective Communication. 
+I like tech because Technology has the power to solve complex problems and improve people’s lives. I am motivated by the idea that my work in technology can contribute to creating solutions that have a real impact on individuals and society as a whole. 
+ I would like to grow in this field by staying at the forefront of emerging technologies and industry trends and plan on regularly acquiring new certifications to ensure I remain a valuable asset to any team. 
+Reach out to me so we can grow together.
 
-<!--
-**ObiFlo1/ObiFlo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS / PostgreSQL / Express
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+

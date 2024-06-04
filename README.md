@@ -8,13 +8,6 @@ I like tech because Technology has the power to solve complex problems and impro
 Reach out to me so we can grow together.
 
 ## Skills and Experience
-* React
-* JS
-* Express
-* HTML
-* CSS
-* PostgreSQL
-
 Skills: REACT / JS / HTML / CSS / PostgreSQL / Express
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ObiFlo1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubenflores114/)  

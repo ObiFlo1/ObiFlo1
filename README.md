@@ -1,4 +1,4 @@
-## Hello 👋 I am Ruben Flores
+Hello 👋 I am Ruben Flores
 ---
 I am pursuing a job as a software engineer in the tech industry. 
 During my time in the military I exceeded my skills in Teamwork, Adaptability, and Effective Communication. 

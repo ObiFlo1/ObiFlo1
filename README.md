@@ -22,5 +22,5 @@ Reach out to me so we can grow together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObiFlo1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiFlo1&theme=gruvbox_icons=true)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiFlo1?theme=gruvbox_icons=true)   
 

@@ -1,4 +1,4 @@
-Hello 👋 I am Ruben Flores
+### Hello 👋 I am Ruben Flores
 ## Full Stack Developer from Los Angeles, California 
 ---
 I am pursuing a job as a software engineer in the tech industry. 

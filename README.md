@@ -13,6 +13,7 @@ Reach out to me so we can grow together.
  <img align="left" alt"PG" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  <img align="left" alt"EX" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
  <img align="left" alt"NextJs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+ <br/>
           
 Skills: REACT / JS / HTML / CSS / PostgreSQL / Express
 

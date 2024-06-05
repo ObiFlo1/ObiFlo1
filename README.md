@@ -1,4 +1,4 @@
-## Hello 👋, my name is Ruben Flores
+## Hello 👋 I am Ruben Flores
 I am pursuing a job as a software engineer in the tech industry. 
 During my time in the military I exceeded my skills in Teamwork, Adaptability, and Effective Communication. 
 I like tech because Technology has the power to solve complex problems and improve people’s lives. I am motivated by the idea that my work in technology can contribute to creating solutions that have a real impact on individuals and society as a whole. 

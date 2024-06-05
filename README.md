@@ -5,7 +5,15 @@ I like tech because Technology has the power to solve complex problems and impro
  I would like to grow in this field by staying at the forefront of emerging technologies and industry trends and plan on regularly acquiring new certifications to ensure I remain a valuable asset to any team. 
 Reach out to me so we can grow together.
 
-## Skills and Experience
+### 🧰 Languages and Tools 
+ <img align="left" alt"React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img align="left" alt"JS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="left" alt"HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img align="left" alt"CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img align="left" alt"PG" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img align="left" alt"EX" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+ <img align="left" alt"NextJs" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+          
 Skills: REACT / JS / HTML / CSS / PostgreSQL / Express
 
 ##

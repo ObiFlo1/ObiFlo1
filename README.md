@@ -22,5 +22,5 @@ Reach out to me so we can grow together.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObiFlo1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://camo.githubusercontent.com/9518ab430103ad54d516d06798128313589141f06d4b78670a0a8712d422f4e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d67727576626f78)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ObiFlo1&show_icons=true)   
 

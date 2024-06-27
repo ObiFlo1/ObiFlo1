@@ -14,12 +14,12 @@ Reach out to me so we can grow together.
  <img align="left" alt="CSS" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  <img align="left" alt="PG" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
  <img align="left" alt="EX" width="50px" style="padding-right:10px" class="devicon-express-original-wordmark colored" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
- <img align="left" alt="NextJs" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
+ <img align="left" alt="NextJs" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
  <br/>
 
 ##
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt='linkedin' height='40px'>](https://www.linkedin.com/in/rubenflores114/)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt='linkedin' height='60px' width="50px" >](https://www.linkedin.com/in/rubenflores114/)  
 
           
  
